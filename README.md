@@ -1,4 +1,4 @@
-# ⚡ ChargePoint Authorization Service
+# ChargePoint Authorization Service
 
 A simulation of an **Electric Vehicle Charging Station Management System (CSMS)** authorization flow using **Java**, **Spring Boot**, and **Kafka**. This service authenticates driver identifiers (like RFID or virtual tokens) and returns authorization statuses: `Accepted`, `Rejected`, `Unknown`, or `Invalid`.
 
@@ -140,21 +140,8 @@ POST /api/authorize
 
 ---
 
-## Contributing
-
-Feel free to fork and PR improvements! This project simulates a real-world architecture and is perfect for experimentation or interview preparation.
-
----
-
 ## Author
 
 **Subodh Kumar**  
-Gaya, Bihar | 📞 9148628797  
-[subodh.shiva@gmail.com]  
 GitHub: [github.com/yourname](https://github.com/subodh07301)
 
----
-
-## License
-
-MIT License. See `LICENSE` file for details.
