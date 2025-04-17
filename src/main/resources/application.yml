@@ -1,0 +1,12 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+  application:
+    name: chargepoint-auth
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.chargepoint: DEBUG
